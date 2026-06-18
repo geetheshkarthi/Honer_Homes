@@ -1,0 +1,12 @@
+# Large video source files
+video.mp4
+
+# Unused/raw source frames folder
+p/
+
+# Python scripts used for generation/compaction
+optimize_frames.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
